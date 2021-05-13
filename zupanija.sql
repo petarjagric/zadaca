@@ -41,3 +41,6 @@ insert into zupanija(naziv,zupan) values
 
 insert into opcina (zupanija,naziv) values
 (1,'Opićna Antunovac'),(1,'Općina Bizovac'),(2,'Općina Cerna'),(2,'Općina Borovo'),(3,'Općina Bebrina'),(3,'Općina Bukovlje');
+
+insert into mjesto (opcina,naziv) values
+(1,'Antunovac'),(1,'Bizovac'),(1,'Bilje'),(1,'Darda'),(2,'Cerna'),(2,'Borovo'),(2,'Ivankovo'),(2,'Jarmina'),(3,'Bebrina'),(3,'Bukovlje'),(3,'Nova Gradiška'),(3,'Cernik')
