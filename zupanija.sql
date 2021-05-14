@@ -63,3 +63,5 @@ update mjesto
 set naziv = 'Rokovci'
 where sifra=6;
 
+delete from opcina where sifra=1;
+delete from opcina where sifra=5;
